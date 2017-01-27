@@ -1,11 +1,11 @@
 {
   "name": "md-data-table",
   "version": "2.2.0",
-  "author": "Istvan Fodor <programtervezo@gmail.com>",
+  "author": "Bennani Driss <bennani.driss@gmail.com",
   "registry": "github",
   "repository": {
     "type": "git",
-    "url": "git://github.com/iamisti/mdDataTable"
+    "url": "git://github.com/exippy/mdDataTable"
   },
   "license": "MIT",
   "devDependencies": {
@@ -49,13 +49,13 @@
     "wallaby-ng-html2js-preprocessor": "^0.1.0"
   },
   "dependencies": {
-    "angular": "~1.5.8",
-    "angular-animate": "~1.5.8",
-    "angular-aria": "~1.5.8",
-    "angular-material": "1.1.1",
-    "angular-material-icons": "~v0.6.0",
-    "angular-sanitize": "~1.5.8",
+    "angular": "^1.5.8",
+    "angular-animate": "^1.5.8",
+    "angular-aria": "^1.5.8",
+    "angular-material": "^1.1.1",
+    "angular-material-icons": "^v0.6.0",
+    "angular-sanitize": "^1.5.8",
     "jquery": "~2.1.4",
-    "lodash": "~3.10.1"
+    "lodash": "^3.10.1"
   }
 }
