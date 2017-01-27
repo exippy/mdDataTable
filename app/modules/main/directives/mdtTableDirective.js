@@ -126,7 +126,7 @@
             scope: {
                 tableCard: '=',
                 selectableRows: '=',
-                alternateHeaders: '=',
+                alternateHeaders: '=', 
                 deleteRowCallback: '&',
                 selectedRowCallback: '&',
                 saveRowCallback: '&',
@@ -140,7 +140,8 @@
                 virtualRepeat: '=',
                 mdtTriggerRequest: '&?',
                 mdtTranslations: '=?',
-                mdtLoadingIndicator: '=?'
+              mdtLoadingIndicator: '=?',
+              clickRowHandler: '&?'
             },
             controller: function mdtTable($scope){
                 var vm = this;
